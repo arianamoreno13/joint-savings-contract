@@ -1,4 +1,4 @@
-# Blockchain Ledger
+# Joint Savings
 
 ![license badge](https://shields.io/badge/license-mit-blue)
 
